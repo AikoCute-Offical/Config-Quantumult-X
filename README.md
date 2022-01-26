@@ -1,15 +1,4 @@
 Bài viết dưới đây hướng dẫn cách chặn quảng cáo trong ứng dụng trên hệ điều hành iOS bằng Quantumult X
-
-1. [Giới thiệu](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X#gi%E1%BB%9Bi-thi%E1%BB%87u)
-2. [Chuẩn bị](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X#chu%E1%BA%A9n-b%E1%BB%8B)
-3. [Thêm cấu hình vào Quantumult X](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X#th%C3%AAm-c%E1%BA%A5u-h%C3%ACnh-v%C3%A0o-quantumult-x)
-4. [Bật Always On](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X#b%E1%BA%ADt-always-on)
-5. [Đồng bộ](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X#%C4%90%E1%BB%93ng-b%E1%BB%99)
-6. [Bật tính năng HTTPS](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X#b%E1%BA%ADt-t%C3%ADnh-n%C4%83ng-https)
-7. [Bật VPN](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X#b%E1%BA%ADt-vpn)
-8. [Cập nhật cấu hình](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X#c%E1%BA%ADp-nh%E1%BA%ADt-c%E1%BA%A5u-h%C3%ACnh)
-9. [Báo lỗi](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X#b%C3%A1o-l%E1%BB%97i)
-
 # Giới thiệu
 
 Tải ứng dụng: https://itunes.apple.com/app/quantumult-x/id1443988620?mt=8
