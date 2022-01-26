@@ -18,59 +18,59 @@ Trước khi bắt đầu cài đặt, bạn cần phải thực hiện **Opt-ou
 
 Bước 1: Tại màn hình chính, chọn icon được đánh dấu như hình
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B01.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B01.jpg)
 
 Bước 2: Chọn `Download`
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B02.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B02.jpg)
 
 Bước 3: Dán đường dẫn cấu hình https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX.conf vào ô `url`
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B03.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B03.jpg)
 
 Nhấn `Save` để lưu cấu hình (nếu là lần đầu sẽ có popup một số lưu ý, nhấn `OK` để bỏ qua)
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B03-1.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B03-1.jpg)
 
 # Bật Always On
 
 Bước 4: Nhấn vào chỗ đánh dấu như trên hình để vào cài đặt nâng cao (đối với phiên bản 1.0.5 trở về trước)
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B04.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B04.jpg)
 
 Từ phiên bản 1.0.6, di chuyển xuống phía dưới chọn `Miscellaneous Settings`
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B04-1.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B04-1.jpg)
 
 Bước 5: Chọn `Based on Filter` tại mục `Running Mode`
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B05.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B05.jpg)
 
 Bước 6: Chọn `Always On` tại mục `VPN`
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B06.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B06.jpg)
 
 # Đồng bộ
 
 Bước 7: Trở về cài đặt cấu hình, tại mục `Filter` chọn `Link`
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B07.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B07.jpg)
 
 Nhấn `SYNC` để đồng bộ `Filter` về máy
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B07-1.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B07-1.jpg)
 
 Bước 8: Trở về cài đặt cấu hình, tại mục `Rewrite` chọn `Link`
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B08.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B08.jpg)
 
 Nhấn `SYNC` để đồng bộ `Rewrite` về máy
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B08-1.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B08-1.jpg)
 
 Trở về cài đặt cấu hình, kích hoạt tính năng `Rewrite` như hình
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B08-2.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B08-2.jpg)
 
 # Bật tính năng HTTPS
 
@@ -78,55 +78,55 @@ Trở về cài đặt cấu hình, kích hoạt tính năng `Rewrite` như hìn
 
 Bước 9: Chọn `Install CA` tại mục `MitM` để cài đặt chứng chỉ CA
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B09.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B09.jpg)
 
 Bước 10: Nhấn `Allow` (`Cho phép`) để bắt đầu cài đặt chứng chỉ
 
 * Lưu ý: Kể từ iOS 12.2, bạn phải vào `Setting` của iOS mới tiếp tục cài đặt chứng chỉ do iOS không tự động chuyển qua như iOS trước
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B10.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B10.jpg)
 
 Cài đặt và nhập passcode theo yêu cầu của iOS, nhấn `Done` (`Xong`) để hoàn tất
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B10-1.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B10-1.jpg)
 
 Sau khi trở lại ứng dụng, kích hoạt tính năng `MitM` như hình
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B10-2.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B10-2.jpg)
 
 Tiến hành tin cậy chứng chỉ để sử dụng tính năng `HTTPS`. Vào `Setting > General > About > Certificate Trust Settings` (`Cài đặt > Cài đặt chung > Thông tin > Certificate Trust Settings`)
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B13-2.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B13-2.jpg)
 
 # Kiểm tra
 
 Bước 11: Kiểm tra lại tất cả các mục đánh dấu như hình để đảm bảo cấu hình đã cài đặt đầy đủ và chính xác
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B11.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B11.jpg)
 
 Tại phần `Filter` và `Rewrite` có hiển thị số là đã thành công (con số có thể thay đổi khác với hình)
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B11-1.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B11-1.jpg)
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B11-2.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B11-2.jpg)
 
 # Bật VPN
 
 Bước 12: Bật VPN tại màn hình chính của ứng dụng
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B12.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B12.jpg)
 
 Bước 13: Chọn `Allow` (`Cho phép`)
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B13.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B13.jpg)
 
 Tiến hành làm theo hướng dẫn của iOS để cài đặt VPN
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B13-1.png)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B13-1.png)
 
 Bước 14: Nếu xuất hiện dòng chữ `Running` là đã thành công
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B14.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B14.jpg)
 
 _**Lưu ý**_, ứng dụng không tích hợp sẵn bộ lọc để chặn quảng cáo trên Safari. Do đó hãy thực hiện theo bài viết [hướng dẫn này](https://github.com/bigdargon/hostsVN/wiki/Adguard) để lướt web không bị làm phiền bởi quảng cáo.
 
@@ -136,7 +136,7 @@ Thực hiện `Bước 7` và `Bước 8` để tiến hành đồng bộ nhanh 
 
 Bước 15: Trong trường hợp cần thiết, cần cập nhật lại toàn bộ cấu hình, thực hiện `Bước 1` và `Bước 2`. Sau đó chọn cấu hình đã tải trước đây
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B15.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B15.jpg)
 
 ## Báo lỗi
 
@@ -144,8 +144,8 @@ Bước 15: Trong trường hợp cần thiết, cần cập nhật lại toàn 
 
 Bước 16: Tại mục `Activity` chọn `Events`
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B16.jpg)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B16.jpg)
 
 Chụp ảnh màn hình log và gửi báo lỗi đến địa chỉ https://github.com/bigdargon/hostsVN/issues để tiến hành báo lỗi, bạn ghi càng chi tiết càng tốt để quá trình xử lý lỗi được nhanh hơn!
 
-![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/wiki/img_QuantumultX_B16-1.png)
+![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B16-1.png)
