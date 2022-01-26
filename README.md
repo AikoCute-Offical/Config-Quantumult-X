@@ -1,2 +1,2 @@
-# Config-Quantumult-X
-Config Quantumult X By Aiko
+# QuanX
+Add sever lẻ QuantumultX
