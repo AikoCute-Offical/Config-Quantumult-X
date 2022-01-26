@@ -140,7 +140,7 @@ Bước 15: Trong trường hợp cần thiết, cần cập nhật lại toàn 
 
 ## Báo lỗi
 
-> Trong quá trình sử dụng, trong danh sách tên miền chặn có thể dẫn đến lỗi khi sử dụng một số phần mềm khác. Theo các bước sau để bật nhật ký chặn của ứng dụng để báo lỗi tại đây https://github.com/bigdargon/hostsVN/issues
+> Trong quá trình sử dụng, trong danh sách tên miền chặn có thể dẫn đến lỗi khi sử dụng một số phần mềm khác. Theo các bước sau để bật nhật ký chặn của ứng dụng để báo lỗi tại đây [![](https://img.shields.io/badge/MyTele-@AikocuteTele-blue.svg)](https://t.me/AikoCute_Player)
 
 Bước 16: Tại mục `Activity` chọn `Events`
 
