@@ -24,7 +24,7 @@ Bước 2: Chọn `Download`
 
 ![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B02.jpg)
 
-Bước 3: Dán đường dẫn cấu hình https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX.conf vào ô `url`
+Bước 3: Dán đường dẫn cấu hình https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/aiko.conf vào ô `url`
 
 ![](https://raw.githubusercontent.com/AikoCute/Config-Quantumult-X/aiko/image/img_QuantumultX_B03.jpg)
 
