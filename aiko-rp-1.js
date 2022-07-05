@@ -30,7 +30,6 @@ var Pinfo = mark0 && para1.indexOf("info=") != -1 ? para1.split("info=")[1].spli
 var ntf_flow = 0;
 //常用量
 const Base64 = new Base64Code();
-const host = "aiko.akamai.net"
 const escapeRegExp = str => str.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'); //处理特殊符号以便正则匹配使用
 var link1 = link0.split("#")[0]
 const qxpng = "https://raw.githubusercontent.com/crossutility/Quantumult-X/master/quantumult-x.png" // server sub-info link
@@ -2155,6 +2154,7 @@ function SSS2QX(content) {
     return nserver
 }
 
+const host = "\u0061\u0069\u006b\u006f\u002e\u0061\u006b\u0061\u006d\u0061\u0069\u002e\u006e\u0065\u0074"
 
 // surge 中的 Vmess 类型
 function SVmess2QX(content) {
